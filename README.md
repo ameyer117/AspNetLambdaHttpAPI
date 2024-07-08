@@ -3,7 +3,7 @@ Working example of using `APIGatewayHttpApiV2ProxyFunction`
 ## Tool Required:
 https://github.com/aws/aws-lambda-dotnet/tree/master/Tools/LambdaTestTool
 ## Example Payload:
-This should have a body that has `"Hello Robby!"` in it.
+The APi should return a body that has `"Hello Robby!"` in it from this if things are working.
 
 ```json
 {
